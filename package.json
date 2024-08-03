@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/iste-hic-iusto-dolorum",
-  "version": "5.7.83",
+  "version": "5.7.84",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -544,5 +544,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/iste-hic-iusto-dolorum/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
